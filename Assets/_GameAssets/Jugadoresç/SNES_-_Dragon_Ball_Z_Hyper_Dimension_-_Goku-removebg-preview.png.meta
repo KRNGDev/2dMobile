@@ -1,0 +1,2890 @@
+fileFormatVersion: 2
+guid: 16864bdc0636dec4aab85937f04ea4c5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 860
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fff718497ce8e14cac6d9356d5b3535
+      internalID: 99075300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 857
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5148f223ad2b903419aaf6987cd24710
+      internalID: 971042177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 857
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25cadb3a356fc745be053adb1d0ee36
+      internalID: 633444833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 857
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff9ed256003897468f5b5214ee9ef90
+      internalID: -889336407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 876
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb7b728308ba974bb1b19c843c63046
+      internalID: 862161993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 822
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f96a376a0f56a4c953f2d4acdf1901
+      internalID: -1803358780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 822
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b83ffc4f6358f438732fd20f4b01cd
+      internalID: -672373711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 820
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a75d1443129d64094e966e5b468eb4
+      internalID: 443028274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 822
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c9282336f8b154089ecf957183b2ea
+      internalID: 1690051761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 821
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd6bee872c8f5e4e9d7c380e101ac7d
+      internalID: 881601297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 820
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b91c77645f3fd4e960efa3f56377d1
+      internalID: -296688327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 785
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8c8204746bdfc4986d965508b22a20
+      internalID: -299510356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 788
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5dc6e55843d9c4d8cbf098a902b544
+      internalID: -2002653172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 789
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d471fda2a0a98bb49a56e580b11c5ea8
+      internalID: 456002125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 786
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b07bf5d47669042a8454eddb51a718
+      internalID: -2004473411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 786
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dbcd73e27c26d4db0db11de8913e46
+      internalID: -585256893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 747
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f19c7b8cdb25c14887247fa6100e40d
+      internalID: -172137509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 751
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f10b7ed010e6914e87ad8faca1ce809
+      internalID: 1910833451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 756
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd4954731327ef478be51e3e4be517c
+      internalID: 2124472206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 755
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5efa751fcc391b4497636cf73293756
+      internalID: -270675453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 711
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2309fda9d831c2428b4a065ba88a034
+      internalID: -1322192665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 711
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484e3057a97f70f43ad673982dd390f6
+      internalID: -900353245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 711
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b293764cd7b3d4395dbcaf477ae256
+      internalID: 233579073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 668
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee69b25f6d8238d46b4f673957cc4b63
+      internalID: 2115308171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 636
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b30a0262b03d344b9c90718aff99d1
+      internalID: -246385098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 691
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b34a3a5aabff24487029c745999eb5
+      internalID: 1577526402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083296a116ac76640840766099a570c7
+      internalID: 1030216336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 636
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97cbdbb82a07bc40b9d413ea24d28e1
+      internalID: -1647832235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 633
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c1707d857989648ab5e3ebb768d97c
+      internalID: 1830851552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 633
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bbee106bed9a643ab0d106ccd1fa84
+      internalID: 883433941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 630
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051bac1b448979447b71fa4756b435b3
+      internalID: -2030085198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 633
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bb1ac4942c18545be7886c47ba780e
+      internalID: 992854805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 634
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8a5d9404a0ac94594dca698f621f34
+      internalID: 979848710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 635
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c63e2fe72e3647a127dd3c6d0f9fa
+      internalID: 564748758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 598
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7272a414d42786d42a45eed9a156446d
+      internalID: 1605881462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 600
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26796a19bc2508b49a7c372a7c2a8c24
+      internalID: 2032897155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 600
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae995139c8997ca438bbf219e5d8df8a
+      internalID: 43244239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 599
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc16979cd0fb56c4688d33efc9bc7afa
+      internalID: 1373906924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 594
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd3a4e0cec4114499be53c1b00a1499
+      internalID: 1641791384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 599
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81188287d92d234e872dacb98b6796d
+      internalID: 1432208142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 595
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96a2f9ca2e74fc4e8543ba9ebc911c5
+      internalID: 2020126900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 558
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d49cc616551c814394204d399763734
+      internalID: 2065923889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 560
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507aa759462f58a4ebff3e7d47e52f2b
+      internalID: 937655591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 558
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fd8976a4768994fbacb9ee377fe353
+      internalID: 743044776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 525
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c77d2e0c659ff4daf92d4e196c26a6
+      internalID: 520949119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 523
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e659e7cf3a3f04caeef0f3ff52562a
+      internalID: 2117099141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 541
+        width: 56
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504a0e53025bad44ab905eb9d095dfc3
+      internalID: 1541086438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 528
+        width: 80
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17852967e2e3cc44ab2b2898955b7c20
+      internalID: -1688471376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 533
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598c366f610eaf448a242fa9737bfbde
+      internalID: -775364000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 528
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee9d5426d4a8c04e9ddb3929841ae6f
+      internalID: -430571722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 487
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98334e618469f7c43852bd60e08761c8
+      internalID: 1956342364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 486
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a66d99add8958f4b9faaa21a3e38ba7
+      internalID: -458457013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 487
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624bbeae0793179438c290379ea0941b
+      internalID: 325431464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 449
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a717f73c3d32bf40b9a82b2a7177043
+      internalID: -665800007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 448
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786ffecb42229624e83a1625bde71c36
+      internalID: 1624910082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 448
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fc1f17915fe3f48a3495074fe727c9
+      internalID: 2054800343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 450
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d297c69ea16a27249bd24b5c34b874db
+      internalID: -432727691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 448
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3c0396696bc4545a5d15263fa6b4db
+      internalID: 1827757867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 448
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce63d4da0aaa422438ba9d51e36f88c2
+      internalID: 2025410269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 413
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7846f19206301204d82034a76dd75125
+      internalID: 1779760028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 416
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4af87d21160cb48975678d3d01640a
+      internalID: -775961884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 414
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a10404c215a7f478e42f1b01c6d038
+      internalID: 197169427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 414
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f614ecaeaf3a74490df7df6e918eeb
+      internalID: -1365821481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 371
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe7ec967ad70fb4c8f2be889d730194
+      internalID: 1726121260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 366
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9f8b40cf75a1b49be1565824688ce0
+      internalID: -94994755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 372
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a038e904c90d445bac6f9437193fac
+      internalID: -4715787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 366
+        width: 15
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d367ebe16ea61154185ade6ca7aaf2a5
+      internalID: -1260813904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 372
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0b8f5fe02486044a4d28a3ba3556bc
+      internalID: -1554299935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 375
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcff7c84e0a5ab448ea5abc7933bdf2
+      internalID: 1034934694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 379
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171479688c618b04c8902fe513343cd1
+      internalID: 1633666792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 378
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c281b8b3b52a173408bc444c1fc1b3a1
+      internalID: -721703538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 378
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e1051cf72935c47b30e36f05f2f4b1
+      internalID: -1678051676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d73d1508db88af43bfa1f5bb2bca544
+      internalID: -1030235916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 382
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54606c02eef385e44a9c321acfd508a8
+      internalID: 14623271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 383
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f0644fdee4fd34e8d377ffa649001d
+      internalID: -1036214140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 384
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2596e739c03bc5428bf8b912b911174
+      internalID: 1698711822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 333
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ce97fe2477b2748a8472daa95e664d
+      internalID: 1911454076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 359
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e929fd81931ce429613287c3a98cbb
+      internalID: 1675084570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 363
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ead8221167d27d49b56ea063c827911
+      internalID: -1513162388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 330
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0633274f00641240891245e0b4fea28
+      internalID: 321238300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 328
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab566ce275d76934ba019e3711fb87c6
+      internalID: 1130640723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 324
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56604dabc1a590243a3b20d612e45460
+      internalID: 1567866963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e134c25923384f4d91658907372c804
+      internalID: -1895041566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 288
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d13b3e0d2447644eaf34b66f91cea46
+      internalID: 1876994874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 291
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2a41eb5bb99c04b853a1922025cb24
+      internalID: 498274445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 292
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2065a6b55b6ce479340bf583c4957f
+      internalID: -274228190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 286
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b2390264cdaca4298e125d4d700511
+      internalID: 1995290485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 247
+        width: 14
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d2723f80928474599a07f4edd12121
+      internalID: 495749094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 246
+        width: 14
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03db50d6982feed43b6879479328dd73
+      internalID: 1993863079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 246
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0ec475cca4052459b38a8a6fd1d006
+      internalID: 1494882609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 214
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5954f77a2ace0458cf1bac33cfe02e
+      internalID: 1472094285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 212
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c01e08276c9f2d458cf8b36cf311c98
+      internalID: 807609068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 212
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c6db5ebadd62f429cf97ba6ac681dd
+      internalID: 119985773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 221
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ff413283dc31e4dbbeec951ff1e6da
+      internalID: -1075735401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 216
+        width: 50
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b42d6c0623d3344b866da3daac8e943
+      internalID: 1746926548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 178
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3093d86db68d8e14b8e87a6052970a33
+      internalID: 1190781262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 178
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44943b46c793ffb4394ea0fb39331a9f
+      internalID: -936067156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 174
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d8660d8f6b4bb42bac28b7cf1a8bc2
+      internalID: 570886780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 186
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c1ff9c5be449d419cca8b0bce54f87
+      internalID: -1028526462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 138
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d95f108eab11f64499ee5af6e48e4e6
+      internalID: 1947680454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 138
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c38677928e70f34b960ccad04e487f7
+      internalID: 1231737613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 138
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecbdec25d25fd845ab67425fc469d75
+      internalID: -1847725172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 138
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c738a1aa77256498aa13f97d311a8b
+      internalID: 1528141337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 135
+        width: 20
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caddeb05ffee694418ad23cbbb87b8f5
+      internalID: -2033321835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 137
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b62fe76935310446907b2f42da373cf
+      internalID: -315327832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 138
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db9e7615c60a5a4aa146ae172064732
+      internalID: -569372264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 134
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2157d2498982c74e90c9aa5dbec846e
+      internalID: 987004884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 132
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd83934061ec8243832132d88dd94d8
+      internalID: -890670046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 140
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778f22650febfbe4b9f96d00335a60d3
+      internalID: -464706585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 136
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b2485eb28ae7341b1a216afc1466ba
+      internalID: -1683678211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 138
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da44f67beeccce149979a8c2944c763e
+      internalID: 1478559923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 99
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395973e6a96f0fa47920554428a28a76
+      internalID: 2109499524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 96
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51afd9192b5948742af929759de9a315
+      internalID: 847136760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 98
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f1cbad6fb9f524a8f67fcd98e8a6e6
+      internalID: -1023104320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 98
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c63856ebb7ec65439b5133ad70a69de
+      internalID: -325092530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 102
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea11394a918e50a428a5962216686993
+      internalID: -1314761876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c323b9545b90d7245b22b9ca95c0ec31
+      internalID: -588736951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 68
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e3d361fec3925498b47f07d3ac1338
+      internalID: 1624757284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db281e144938634ea4eb3de27c7bad2
+      internalID: -758191679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 69
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4612845745d5e4e468834f6821cc6baa
+      internalID: 950387484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 72
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae24b7cbc941c548b79965eabb53403
+      internalID: 1192278888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 60
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70224bd5b8962244b1ad26632f336ac
+      internalID: -1415743228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 33
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeffeee49a4ba14fa3bd834a869a468
+      internalID: -217265912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248790a8ebd6b0740bec3b27a6b8b967
+      internalID: -51061058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f43e3e8fc81e443b267ab118d0d75d
+      internalID: -258342920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_0: 99075300
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_1: 971042177
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_10: -296688327
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_100: 1231737613
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_101: -1847725172
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_102: 1528141337
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_103: -2033321835
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_104: -315327832
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_105: -569372264
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_106: 987004884
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_107: -890670046
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_108: -464706585
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_109: -1683678211
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_11: -299510356
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_110: 1478559923
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_111: 2109499524
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_112: 847136760
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_113: -1023104320
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_114: -325092530
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_115: -1314761876
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_116: -588736951
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_117: 1624757284
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_118: -758191679
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_119: 950387484
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_12: -2002653172
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_120: 1192278888
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_121: -1415743228
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_122: -217265912
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_123: -51061058
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_124: -258342920
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_13: 456002125
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_14: -2004473411
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_15: -585256893
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_16: -172137509
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_17: 1910833451
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_18: 2124472206
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_19: -270675453
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_2: 633444833
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_20: -1322192665
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_21: -900353245
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_22: 233579073
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_23: 2115308171
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_24: -246385098
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_25: 1577526402
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_26: 1030216336
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_27: -1647832235
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_28: 1830851552
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_29: 883433941
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_3: -889336407
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_30: -2030085198
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_31: 992854805
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_32: 979848710
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_33: 564748758
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_34: 1605881462
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_35: 2032897155
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_36: 43244239
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_37: 1373906924
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_38: 1641791384
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_39: 1432208142
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_4: 862161993
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_40: 2020126900
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_41: 2065923889
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_42: 937655591
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_43: 743044776
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_44: 520949119
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_45: 2117099141
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_46: 1541086438
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_47: -1688471376
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_48: -775364000
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_49: -430571722
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_5: -1803358780
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_50: 1956342364
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_51: -458457013
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_52: 325431464
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_53: -665800007
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_54: 1624910082
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_55: 2054800343
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_56: -432727691
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_57: 1827757867
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_58: 2025410269
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_59: 1779760028
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_6: -672373711
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_60: -775961884
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_61: 197169427
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_62: -1365821481
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_63: 1726121260
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_64: -94994755
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_65: -4715787
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_66: -1260813904
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_67: -1554299935
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_68: 1034934694
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_69: 1633666792
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_7: 443028274
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_70: -721703538
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_71: -1678051676
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_72: -1030235916
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_73: 14623271
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_74: -1036214140
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_75: 1698711822
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_76: 1911454076
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_77: 1675084570
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_78: -1513162388
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_79: 321238300
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_8: 1690051761
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_80: 1130640723
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_81: 1567866963
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_82: -1895041566
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_83: 1876994874
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_84: 498274445
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_85: -274228190
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_86: 1995290485
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_87: 495749094
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_88: 1993863079
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_89: 1494882609
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_9: 881601297
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_90: 1472094285
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_91: 807609068
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_92: 119985773
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_93: -1075735401
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_94: 1746926548
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_95: 1190781262
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_96: -936067156
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_97: 570886780
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_98: -1028526462
+      SNES_-_Dragon_Ball_Z_Hyper_Dimension_-_Goku-removebg-preview_99: 1947680454
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
